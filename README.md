@@ -37,5 +37,12 @@ Dashboard screenshots will be added after the report is completed.
 ## Key Insights
 To be updated after completing the analysis.
 
+## Dashboard Preview :
+
+![Adventure Works Sales Dashboard](dashboard-preview.png)
+
+
+
+
 ## Author
 Sandeep Bulkapuram
